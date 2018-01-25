@@ -2,8 +2,7 @@
 
 
 ## Computer Science
-[Scripting: Higher Level Programming for the 21st Century](https://www.tcl.tk/doc/scripting.html)
-
+[Scripting: Higher Level Programming for the 21st Century](https://www.tcl.tk/doc/scripting.html)<br/>
 This article, while perhaps somewhat biased as well as downright incorrect when it comes to Python, made some interesting predictions that have come true.  (Python _is_ capable of macros, thought it takes a little bit more work than Lisp.)
 
 [The Downfall of Imperative Programming.](https://www.fpcomplete.com/blog/2012/04/the-downfall-of-imperative-programming)
