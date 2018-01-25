@@ -12,7 +12,7 @@ This article discusses the issue of data races in concurrent programming and how
 This article about semantic compression discusses the dramatic amount of overuse of objects in modern programming.  It also makes an excellent point about how most blog writers on the topic of programming are not highly experienced, which leads to a lot of materials teaching bad programming techniques and very little teaching the bits of wisdom learned over decades of experience.  (My personal experience confirms this.  I find so many tutorials and articles programming to a particular mathematical or organizational ideology, instead of focusing on the simplicity and elegance necessary to make efficient and maintainable software.)
 
 [Execution in the Kingdom of Nouns](http://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)<br/>
-This article looks at the overuse of objects from another perspective.  If you are in love with Java or are religious in the believe that everything should be objects, this article is not for you.  Of course, if you worship objects to this degree, perhaps there is no point in reading _any_ of these articles...
+This article looks at the overuse of objects from another perspective.  If you are in love with Java or are religious in the belief that everything should be objects, this article is not for you.  Of course, if you worship objects to this degree, perhaps there is no point in reading _any_ of these articles...
 
 
 ## Mathematics
