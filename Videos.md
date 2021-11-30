@@ -12,4 +12,4 @@ This TEDx talk discusses medical biohacking, as a way to take control of your ow
 ## Prime Numbers
 
 [Exploring the mysteries of the Prime (gaps!) Line.](https://www.youtube.com/watch?v=SMsTXQYgbiQ)
-Stand-up Maths video on (surprise) prime numbers.  This includes a log frequency graph of gap sizes between primes that's very interesting.  It also discussions an interesting relationship between prime gaps and primorals.
+Stand-up Maths video on (surprise) prime numbers.  This includes a log frequency graph of gap sizes between primes that's very interesting.  It also discusses an interesting relationship between prime gaps and primorals.
