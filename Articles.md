@@ -24,3 +24,10 @@ Excellent article explaining the line multiplication method taught in Japanese s
 
 [Things I Won’t Work With: Dioxygen Difluoride](http://blogs.sciencemag.org/pipeline/archives/2010/02/23/things_i_wont_work_with_dioxygen_difluoride)<br/>
 Perhaps one of my most favorite articles ever.  You should read this, because the phrase "Satan's kimchi" features in it.  Also, the comments are very much worth reading as well.
+
+## Nutrition
+
+[Cholesterol is Good for You](https://www.diagnosisdiet.com/full-article/cholesterol)</br>
+I've been studying nutrition on the side for years. This is mostly stuff I already knew, but it presents the facts far better than anything else I've ever read.
+
+
