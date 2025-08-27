@@ -9,6 +9,11 @@ This TEDx talk is an excellent introduction to biohacking.  It starts with pract
 [My experience with bio-hacking | Martin Kremmer | TEDxCopenhagen](https://www.youtube.com/watch?v=ADyCY382lAY)
 This TEDx talk discusses medical biohacking, as a way to take control of your own health and to personalize your healthcare instead of relying on a medical system designed for averages rather than individuals.
 
+## Programming
+
+[Debugging and the Art of Avoiding Bugs](https://www.youtube.com/watch?v=sfrnU3-EpPI)
+This is a fascinating video discussing how to debug, avoid bugs, and program in ways that make debugging much easier.  It's C oriented, but a lot of it applies more generically regardless of programming language.  I once read an article lamenting the lack of highly experienced programmers producing content on how to program well.  This is an example of such a programmer, and his other videos appear to be of similar value.
+
 ## Prime Numbers
 
 [Exploring the mysteries of the Prime (gaps!) Line.](https://www.youtube.com/watch?v=SMsTXQYgbiQ)
